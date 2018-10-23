@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tcp_udp_web_tools-pyqt5-master", "tcp_udp_web_tools-pyqt5-master.pyproj", "{B40323C9-E089-411B-BF61-A99CA3DC51CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B40323C9-E089-411B-BF61-A99CA3DC51CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40323C9-E089-411B-BF61-A99CA3DC51CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47840CCA-19E6-41CE-9929-694995B3D835}
+	EndGlobalSection
+EndGlobal
